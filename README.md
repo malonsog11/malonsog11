@@ -31,15 +31,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malonsog11&show_icons=true&theme=radial" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malonsog11&layout=compact&theme=radial" alt="Top Languages" width="48%" />
-</div>
-
----
-
 ### 📫 Connect with Me
 
 - 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/manuel-alonso-gonzález-21a4b8442)
